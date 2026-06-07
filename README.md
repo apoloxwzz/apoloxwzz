@@ -34,10 +34,10 @@
 
 | 🚀 Project | 📝 Description |
 |---|---|
-| [AutoClicker](https://github.com/apoloxwzz/autoclicker) | Python autoclicker with keyboard toggle |
-| [Particle Network](https://github.com/apoloxwzz/particle-network) | C++ particle simulation with SDL2 |
-| [WhatsApp Sticker Bot](https://github.com/apoloxwzz/whatsapp-sticker-bot) | Node.js bot that turns images into stickers |
-| [Minimal VSCode](https://github.com/apoloxwzz/minimal-vscode) | My clean & minimal VSCode setup |
+| [AutoClicker](https://github.com/apoloxwzz/AutoCliker) | Python autoclicker with keyboard toggle |
+| [Particle Network](https://github.com/apoloxwzz/Particles) | C++ particle simulation with SDL2 |
+| [WhatsApp Sticker Bot](https://github.com/apoloxwzz/WhatsappStickerBot) | Node.js bot that turns images into stickers |
+| [Minimal VSCode](https://github.com/apoloxwzz/VSCodeMinimal) | My clean & minimal VSCode setup |
 
 ---
 
