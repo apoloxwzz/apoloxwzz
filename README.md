@@ -44,10 +44,8 @@
 ### 📊 github stats
 
 <div align="center">
-
 <img height="180em" src="https://streak-stats.demolab.com?user=apoloxwzz&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoloxwzz&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apoloxwzz&theme=tokyonight"/>
 </div>
 
 ---
