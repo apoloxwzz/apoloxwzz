@@ -1,23 +1,23 @@
 <div align="center">
 
-# hi, i'm apolomecmec 〽
+# Hi, I'm apolomecmec 〽
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=just+a+curious+person.;i+build+things+for+fun.;always+learning+something+new.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Just+a+curious+person.;I+build+things+for+fun.;Always+learning+something+new.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 👾 about me
+### 👾 About Me
 
-- 🔭 i build things out of curiosity
-- 🛠️ i enjoy creating tools, simulations and bots
-- 🌱 always learning something new
-- 💬 ask me anything — i like a good conversation
+- 🔭 I build things out of curiosity
+- 🛠️ I enjoy creating tools, simulations and bots
+- 🌱 Always learning something new
+- 💬 Ask me anything — I like a good conversation
 
 ---
 
-### 🛠️ tech stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -30,27 +30,29 @@
 
 ---
 
-### 📌 featured projects
+### 📌 Featured Projects
 
-| 🚀 project | 📝 description |
+| 🚀 Project | 📝 Description |
 |---|---|
-| [autoclicker](https://github.com/apoloxwzz/autoclicker) | python autoclicker with keyboard toggle |
-| [particle-network](https://github.com/apoloxwzz/particle-network) | c++ particle simulation with sdl2 |
-| [whatsapp-sticker-bot](https://github.com/apoloxwzz/whatsapp-sticker-bot) | node.js bot that turns images into stickers |
-| [minimal-vscode](https://github.com/apoloxwzz/minimal-vscode) | my clean & minimal vscode setup |
+| [AutoClicker](https://github.com/apoloxwzz/autoclicker) | Python autoclicker with keyboard toggle |
+| [Particle Network](https://github.com/apoloxwzz/particle-network) | C++ particle simulation with SDL2 |
+| [WhatsApp Sticker Bot](https://github.com/apoloxwzz/whatsapp-sticker-bot) | Node.js bot that turns images into stickers |
+| [Minimal VSCode](https://github.com/apoloxwzz/minimal-vscode) | My clean & minimal VSCode setup |
 
 ---
 
-### 📊 github stats
+### 📊 GitHub Stats
 
 <div align="center">
+
 <img height="180em" src="https://streak-stats.demolab.com?user=apoloxwzz&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apoloxwzz&theme=tokyonight"/>
+
 </div>
 
 ---
 
-### 📬 contact
+### 📬 Contact
 
 <div align="center">
 
