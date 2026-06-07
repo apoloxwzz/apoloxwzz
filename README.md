@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=hi,%20i'm%20apolomecmec%20〽&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=just%20a%20curious%20person.&descAlignY=58&descColor=cccccc" />
+# hey, i'm apolo 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=just+a+curious+person.;i+build+things+for+fun.;always+learning+something+new.)](https://git.io/typing-svg)
 
 </div>
 
@@ -55,13 +57,5 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-apoloxfr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/apoloxfr)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer"/>
 
 </div>
