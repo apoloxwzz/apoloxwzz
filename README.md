@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm apolo 👋
+# hi, i'm apolomecmec 〽
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=just+a+curious+person.;i+build+things+for+fun.;always+learning+something+new.)](https://git.io/typing-svg)
 
